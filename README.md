@@ -1,9 +1,4 @@
 <h1 align="center">Hi, I'm Adrián M.A.</h1>
-<h3 align="center">A normal person, full stack developer putting all his mind in learning</h3>
-
-- 👨‍💻 All of my projects are available at https://github.com/Adrian-M-A
-
-- 💬 Ask me about **Whatever you want, with respect**
 
 - 📫 How to reach me **adrian@neurocadi.es**
 
